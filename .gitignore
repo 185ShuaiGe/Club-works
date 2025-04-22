@@ -1,5 +1,5 @@
-data_set
+/ResNet/data_set
 
-__pycache__
+/ResNet/__pycache__
 
-weight_outcome
+/ResNet/weight_outcome
